@@ -46,6 +46,7 @@ canvas.addEventListener('mousemove', (event) => {
     size,
     color
   })
+  startPosition = position
 })
 
 canvas.addEventListener('mouseup', () => {
