@@ -1,6 +1,6 @@
 {
   "name": "px-brush",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pixelated Brush/Eraser on HTML5 Canvas",
   "main": "lib/px-brush.min.js",
   "scripts": {
