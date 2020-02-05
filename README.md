@@ -2,8 +2,6 @@
 
 Pixelated Brush on HTML5 Canvas
 
-[Demo](https://kozo002.github.io/non-antialias-painting/) | [Medium](https://medium.com/@kozo002/how-to-draw-without-antialiasing-on-html5-canvas-cf13294a8e58)
-
 ## Getting started
 
 1. `npm install --save px-brush` or `yarn add px-brush`
